@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adrian Gallard on Home</title>
+    <link>https://ajgallard.github.io/portfolio/</link>
+    <description>Recent content in Adrian Gallard on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Sep 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://ajgallard.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fraud Detection</title>
+      <link>https://ajgallard.github.io/portfolio/projects/fraud-detection/</link>
+      <pubDate>Tue, 07 Sep 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://ajgallard.github.io/portfolio/projects/fraud-detection/</guid>
+      <description>Introduction: Classification tasks come in a variety of flavors and fraud is no different. However, like any project, detecting fraud has its own unique qualities that need to be explored to get the most out of a machine learning model&amp;hellip;
+Main Points:
+ Dealing with Imbalanced datasets Implementing unsupervised models for detecting anomalies in a dataset (hopefully detecting fraud) Using supervised models to create a fraud detection models Models Implemented: Isolation Forest, Local Outlier Factor, Random Forest  GitHub</description>
+    </item>
+    
+    <item>
+      <title>Neural Style Transfer</title>
+      <link>https://ajgallard.github.io/portfolio/projects/neural-style-transfer/</link>
+      <pubDate>Tue, 07 Sep 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://ajgallard.github.io/portfolio/projects/neural-style-transfer/</guid>
+      <description>Introduction: Neural Style Transfer (NST) is where the &amp;ldquo;style&amp;rdquo; of one image (the artwork) is mapped onto a &amp;ldquo;content&amp;rdquo; image (the photo) to create an artistic render of the original photo in the style of the artist the network was trained
+Main Points:
+ Implementing the Transformer Architecture involved in NST training Training Multiple models using NST NST&amp;rsquo;s peculiar ideas such as: content-style metric and the use of a gram-matrix to capture the essence of the style-image Modifying Pre-existing models and code to suit use-case scenarios  GitHub</description>
+    </item>
+    
+    <item>
+      <title>Sacramento Real Estate Web-Scraping &amp; Analysis</title>
+      <link>https://ajgallard.github.io/portfolio/projects/sacramento/</link>
+      <pubDate>Tue, 07 Sep 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://ajgallard.github.io/portfolio/projects/sacramento/</guid>
+      <description>Introduction: There is a lot data circulating the internet and web-scraping is a method of aggregating a good amount of it in one foul swoop. Living in the Sacramento area I thought it would be interesting to scrape together some real-estate data to see what I could determine about the housing market near me&amp;hellip;
+Main Points:
+ Using the Scrapy module to build spiders for scraping RedFin (a real-estate site) Using pandas to clean and explore the data obtained via Scrapy Creating an OLS regression using statsmodel and sklearn Making statistical inferences regarding the major factors in determining home prices  GitHub</description>
+    </item>
+    
+    <item>
+      <title>Time Series Analysis</title>
+      <link>https://ajgallard.github.io/portfolio/projects/time-series/</link>
+      <pubDate>Tue, 07 Sep 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://ajgallard.github.io/portfolio/projects/time-series/</guid>
+      <description>Introduction: Time series are an interesting form of data in that it is simply a feature moving with time and no other features. To Make Predictions for the future we need to find trends that exist within previous data points along the series. Using tools such as the ARIMA &amp;amp; PROPHET we can manipulate the data to reveal its secrets and make fairly accurate predictions about the future with nothing else but historical data.</description>
+    </item>
+    
+    <item>
+      <title>A|B Testing with Cookie Cats Data</title>
+      <link>https://ajgallard.github.io/portfolio/projects/ab-testing/</link>
+      <pubDate>Tue, 07 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ajgallard.github.io/portfolio/projects/ab-testing/</guid>
+      <description>Introduction: A|B Testing is a common experimentation method (usually seen in conjunction with website design). With this project we take data provided by the folks who run the cookie cats mobile game and conduct an A|B Test notebook. Our goal is to decide whether to implement the proposed change to the game or to stick to the current system.
+Main Points:
+ Setting a success metric (retention rate for this project) Running a chi-square test to check for a significant difference between the variants Bootstrapping the data to create normal distributions based on the central limit theorem to visualize the difference between variant A and variant B (assuming the difference exist)  GitHub</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ajgallard.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajgallard.github.io/portfolio/contact/</guid>
+      <description>Feel free to contact me via LinkedIn. You can also explore more content on my GitHub page.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/ajgallard   GitHub: https://github.com/ajgallard    </description>
+    </item>
+    
+  </channel>
+</rss>
